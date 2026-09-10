@@ -1,7 +1,7 @@
 # 🤖 Registro de Auditoría de IA (AI-LOG)
 
-**Estudiante:** Persona(s)  
-**Semana:** X  
+**Estudiante:** Randy Galarza 
+**Semana:** 3
 **Proyecto:** RouteGo - Aplicación de rutas universitarias de Riohacha
 
 ## 1. Prompts Utilizados
